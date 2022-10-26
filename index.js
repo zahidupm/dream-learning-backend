@@ -2,7 +2,7 @@ const express = require('express')
 const app = express()
 const cors = require('cors')
 app.use(cors());
-const Port = process.env.Port || 5000;
+const port = process.env.port || 5000;
 
 const items = require('./data/learners.json')
 
@@ -23,6 +23,6 @@ app.get('/item/:id', (req, res) => {
     res.send(singleItem);
 })
 
-app.listen(Port, () => {
-    console.log(`Server is running on port ${Port}`);
+app.listen(port, () => {
+    console.log(`Server is running on port ${port}`);
 })

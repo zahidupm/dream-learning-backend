@@ -82,5 +82,19 @@
     "description": "Information management (IM) is primarily concerned with the capture, digitization, representation, organization, transformation, and presentation of information. Because a computer’s main memory provides only temporary storage, computers are equipped with auxiliary disk storage devices that permanently store data. These devices are characterized by having much higher capacity than main memory but slower read/write (access) speed. Data stored on a disk must be read into main memory before it can be processed. A major goal of IM systems, therefore, is to develop efficient algorithms to store and retrieve specific data for processing.",
     "break": 10,
     "quantity": 0
+  },
+  {
+    "id": "1",
+    "header": "",
+    "name": "local",
+    "bullet ": 0,
+    "age": "20-25",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--L1s755dk--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/xtuhivk785yvj2pden2g.png",
+    "time": 30,
+    "ratings": 4,
+    "ratingsCount": 3725,
+    "description": "Information management (IM) is primarily concerned with the capture, digitization, representation, organization, transformation, and presentation of information. Because a computer’s main memory provides only temporary storage, computers are equipped with auxiliary disk storage devices that permanently store data. These devices are characterized by having much higher capacity than main memory but slower read/write (access) speed. Data stored on a disk must be read into main memory before it can be processed. A major goal of IM systems, therefore, is to develop efficient algorithms to store and retrieve specific data for processing.",
+    "break": 10,
+    "quantity": 0
   }
 ]
