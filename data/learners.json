@@ -24,7 +24,7 @@
     "ratings": 4,
     "ratingsCount": 3725,
     "description": "An algorithm is a specific procedure for solving a well-defined computational problem. The development and analysis of algorithms is fundamental to all aspects of computer science: artificial intelligence, databases, graphics, networking, operating systems, security, and so on. Algorithm development is more than just programming. It requires an understanding of the alternatives available for solving a computational problem, including the hardware, networking, programming language, and performance constraints that accompany any particular solution. It also requires understanding what it means for an algorithm to be “correct” in the sense that it fully and efficiently solves the problem at hand.",
-    "break": 10,
+    "price": 49,
     "quantity": 0
   },
   {
@@ -38,7 +38,7 @@
     "ratings": 4,
     "ratingsCount": 3725,
     "description": "Computer architecture deals with the design of computers, data storage devices, and networking components that store and run programs, transmit data, and drive interactions between computers, across networks, and with users. Computer architects use parallelism and various strategies for memory organization to design computing systems with very high performance. Computer architecture requires strong communication between computer scientists and computer engineers, since they both focus fundamentally on hardware design.At its most fundamental level, a computer consists of a control unit, an arithmetic logic unit (ALU), a memory unit, and input/output (I/O) controllers. The ALU performs simple addition, subtraction, multiplication, division, and logic operations, such as OR and AND. The memory stores the program’s instructions and data. The control unit fetches data and instructions from memory and uses operations of the ALU to carry out those instructions using that data.",
-    "break": 10,
+    "price": 49,
     "quantity": 0
   },
   {
@@ -52,7 +52,7 @@
     "ratings": 4,
     "ratingsCount": 3725,
     "description": "Graphics and visual computing is the field that deals with the display and control of images on a computer screen. This field encompasses the efficient implementation of four interrelated computational tasks: rendering, modeling, animation, and visualization. Graphics techniques incorporate principles of linear algebra, numerical integration, computational geometry, special-purpose hardware, file formats, and graphical user interfaces (GUIs) to accomplish these complex tasks.",
-    "break": 10,
+    "price": 49,
     "quantity": 0
   },
   {
@@ -66,7 +66,7 @@
     "ratings": 4,
     "ratingsCount": 3725,
     "description": "Human-computer interaction (HCI) is concerned with designing effective interaction between users and computers and the construction of interfaces that support this interaction. HCI occurs at an interface that includes both software and hardware. User interface design impacts the life cycle of software, so it should occur early in the design process. Because user interfaces must accommodate a variety of user styles and capabilities, HCI research draws on several disciplines including psychology, sociology, anthropology, and engineering. In the 1960s, user interfaces consisted of computer consoles that allowed an operator directly to type commands that could be executed immediately or at some future time. With the advent of more user-friendly personal computers in the 1980s, user interfaces became more sophisticated, so that the user could “point and click” to send a command to the operating system.",
-    "break": 10,
+    "price": 49,
     "quantity": 0
   },
   {
@@ -80,7 +80,7 @@
     "ratings": 4,
     "ratingsCount": 3725,
     "description": "Information management (IM) is primarily concerned with the capture, digitization, representation, organization, transformation, and presentation of information. Because a computer’s main memory provides only temporary storage, computers are equipped with auxiliary disk storage devices that permanently store data. These devices are characterized by having much higher capacity than main memory but slower read/write (access) speed. Data stored on a disk must be read into main memory before it can be processed. A major goal of IM systems, therefore, is to develop efficient algorithms to store and retrieve specific data for processing.",
-    "break": 10,
+    "price": 49,
     "quantity": 0
   }
 ]
